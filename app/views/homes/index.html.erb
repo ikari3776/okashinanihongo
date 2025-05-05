@@ -1,1 +1,10 @@
 <p>おかレな日本語</p>
+
+<%= form_with url: "/result", method: :post, model: @content, data: { turbo: false } do |f| %>
+  <%= f.text_area :word, placeholder: "ここに入力" %>
+  <%= f.submit "変換" %>
+<% end %>
+  
+<h1>↓</h1>
+
+<%= @result %>
