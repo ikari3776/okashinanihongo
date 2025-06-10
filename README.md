@@ -1,24 +1,5 @@
-# README
+# おかレな日本語
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+入力した文章がおかしな日本語になってしまうアプリです。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<a href="https://gyazo.com/27f1d9884c58228c3015569be1835ca5"><img src="https://i.gyazo.com/27f1d9884c58228c3015569be1835ca5.gif" alt="Image from Gyazo" width="237.33333333333334"/></a>
